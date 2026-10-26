@@ -1,6 +1,6 @@
 {
   "name": "@magpie-community/opencode-qiniu-auth",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "Magpie / OpenCode provider plugin: Qiniu MaaS (Modelink) — every model Qiniu serves, including the activity's free tier",
   "type": "module",
   "main": "./index.mjs",
